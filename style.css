@@ -1,0 +1,42 @@
+.jumbotron {
+    background-image: url("img/homebg.png") ;
+    opacity: 0.8;
+    padding-top: 25rem;
+    padding-bottom: 27rem;
+}
+
+.jumbotron > p {
+    color: white;
+}
+
+.jumbotron > h1 {
+    color: white;
+}
+
+.project {
+    background-image: url("img/work.jpg");
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+    color: white;
+}
+
+.h2 {
+    color: white;
+}
+
+.about {
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    padding-top: 5rem;
+}
+
+.contact {
+    background-color: white;
+    padding-top: 7rem;
+    padding-bottom: 25rem;
+}
+
+body {
+    background-image: url("homebg.png");
+}
